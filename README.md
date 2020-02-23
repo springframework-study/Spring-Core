@@ -2,7 +2,7 @@
 
 + [Ioc 컨테이너와 빈](./IoCContainerBean)
 
-+ [Resource / Validation](.)
++ [Resource / Validation](./ResourceAndValidation)
 
 + [데이터 바인딩](.)
 
